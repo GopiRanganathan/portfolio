@@ -440,3 +440,42 @@ width:80px;
     height:50px;
     width:50px;
 }
+
+.work{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color:white;
+    font-family: 'Heebo', sans-serif;
+    text-align:center;
+}
+.work .content{
+    min-height:300px;
+    min-width:400px;
+    max-width:800px;
+    padding:25px;
+    border-radius:15px;
+    background: rgb(14,14,15);
+    background: radial-gradient(circle, rgba(14,14,15,0.7651435574229692) 4%, rgba(14,14,15,0.5718662464985995) 31%);
+}
+.work h2{
+    font-weight:300;
+}
+.work .content a{
+    color:white;
+    text-decoration:none;
+}
+.work .works{
+    padding:20px;
+}
+.work .content a img{
+    height:200px;
+    width:300px;
+    object-fit:cover;
+}
+.work .content a .project-name{
+   
+    font-weight:300;
+
+}
