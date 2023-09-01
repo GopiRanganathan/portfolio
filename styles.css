@@ -36,7 +36,8 @@ header{
     top:0;
     z-index:2;
     width:100%;
-
+    background: rgb(14,14,15);
+    background: linear-gradient(180deg, rgba(14,14,15,1) 39%, rgba(14,14,15,0) 100%);
  
 }
 header a{
