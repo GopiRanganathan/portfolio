@@ -298,6 +298,7 @@ text-align:center;
 display:flex;
 justify-content:center;
 align-items:center;
+margin:20px;
 }
 .about .content{
     min-height:300px;
@@ -336,6 +337,7 @@ align-items:center;
     color:white;
     font-family: 'Heebo', sans-serif;
     text-align:center;
+    margin:20px;
 
 }
 .skills .content{
