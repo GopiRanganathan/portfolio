@@ -309,7 +309,7 @@ animation-delay:3s;
 }
 
 .about{
-    height:100vh;
+    min-height:100vh;
     color:white;
     font-family: 'Heebo', sans-serif;
 text-align:center;
@@ -348,7 +348,7 @@ margin:20px;
     margin:15px;
 }
 .skills{
-    height:100vh;
+    min-height:100vh;
     display:flex;
     justify-content:center;
     align-items: center;
@@ -463,7 +463,7 @@ width:80px;
 }
 
 .work{
-    height:100vh;
+    min-height:100vh;
     display:flex;
     justify-content:center;
     align-items: center;
