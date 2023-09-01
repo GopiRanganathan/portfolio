@@ -100,7 +100,7 @@ position:relative;
     color:var(--highlight);
     font-size:40px;
 position:absolute;
-bottom:160px;
+bottom:100px;
 transform:translateY(0px);
 
 transition:0.5s;
@@ -136,6 +136,18 @@ transform:translateY(7px);
 .experience{
     font-size:20px;
 }
+@media screen and (max-width: 600px) {
+    .greetings {
+     font-size:50px;
+    }
+    .title{
+        font-size:20px;
+    
+    }
+    .experience{
+        font-size:15px;
+    }
+  }
 
     .ball{
     height:50px;
