@@ -83,8 +83,10 @@ width:100%;
     position:relative;
 }
 .start .content{
-    height:230px;
-    width:500px;
+    min-height:150px;
+    max-height:230px;
+    max-width:500px;
+    min-width:300px;
     padding:20px;
     border-radius:30px;
     background: rgb(14,14,15);
