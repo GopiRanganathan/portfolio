@@ -486,6 +486,7 @@ width:80px;
 .work .content a{
     color:white;
     text-decoration:none;
+    margin:10px;
 }
 .work .works{
     padding:20px;
@@ -498,5 +499,10 @@ width:80px;
 .work .content a .project-name{
    
     font-weight:300;
+
+}
+.work .works{
+    display:flex;
+    flex-wrap:wrap;
 
 }
