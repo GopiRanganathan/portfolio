@@ -138,7 +138,7 @@ transform:translateY(7px);
 }
 @media screen and (max-width: 600px) {
     .greetings {
-     font-size:50px;
+     font-size:40px;
     }
     .title{
         font-size:20px;
